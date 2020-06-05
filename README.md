@@ -33,3 +33,7 @@ Download bootstrap-starter.zip
   `<script src="node_modules/jquery/dist/jquery.slim.min.js"></script>` 
    `<script src="node_modules/popper.js/dist/umd/popper.min.js"></script>` 
      `<script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>`
+     
+`npm install font-awesome@4.7.0 --save`
+
+`npm install bootstrap-social@5.1.1 --save`
